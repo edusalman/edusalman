@@ -1,11 +1,11 @@
-<h1 align="center">Olá, eu sou Eduardo Henrique Nogueira Salman 👋</h1>
+<h1 align="center">Hi, I'm Eduardo Salman 👋</h1>
 
 <p align="center">
-  Desenvolvedor Front-end / Full-stack Júnior
+  Full-Stack Software Engineer 🇧🇷 | React, Node.js & TypeScript
 </p>
 
 <p align="center">
-  São Paulo, Brasil 🇧🇷
+  São Paulo, Brazil 🇧🇷 &nbsp;|&nbsp; Open to remote opportunities worldwide 🌍
 </p>
 
 <p align="center">
@@ -22,17 +22,17 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou desenvolvedor com experiência prática em desenvolvimento web corporativo, integrações com APIs REST e customizações no ERP Protheus.
+Full-Stack Developer with hands-on production experience building corporate web portals, REST APIs, and ERP integrations. At Aditex, I replaced a third-party automation platform with a custom Node.js solution — cutting ~$2,000 USD/year in recurring operational costs for the company.
 
-Atualmente atuo na área de TI da **Aditex**, desenvolvendo portais internos, APIs, automações e soluções para monitoramento de integrações. Tenho experiência em projetos reais dentro de ambiente corporativo, com foco em entrega de soluções funcionais, melhoria de processos e redução de custos.
+Currently working as a **Full-Stack Developer at Aditex**, delivering internal portals, APIs, and integration monitoring systems used daily across the organization.
 
-Sou formado em **Análise e Desenvolvimento de Sistemas pela FIAP** e atualmente curso **Engenharia de Software**. Possuo inglês fluente e tenho forte interesse em tecnologias modernas para desenvolvimento web, especialmente no ecossistema **React, TypeScript, Next.js e JavaScript**.
+B.S. in Systems Analysis & Development from **FIAP** — currently pursuing a B.S. in **Software Engineering**. Fluent in English. Focused on the modern web ecosystem: **React, TypeScript, Next.js, and Node.js**.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Tech Stack
 
 ### Front-end
 
@@ -56,140 +56,122 @@ Sou formado em **Análise e Desenvolvimento de Sistemas pela FIAP** e atualmente
   <img src="https://img.shields.io/badge/ADVPL-005CA9?style=for-the-badge&logo=totvs&logoColor=white" />
 </p>
 
-### Banco de Dados
+### Database
 
 <p>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </p>
 
-### Ferramentas
+### Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" />
-  <img src="https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-### Portal de Integrações — ERP Protheus
+### Integrations Portal — ERP Protheus
 
-Portal corporativo desenvolvido para monitoramento de integrações relacionadas ao ERP Protheus, permitindo maior visibilidade sobre processos internos e facilitando o acompanhamento de rotinas críticas.
+Real-time web monitoring portal for all ERP Protheus integrations, built to give the operations team full visibility over critical processes and automated alerts for anomalies.
 
-**Principais pontos:**
+**Highlights:**
 
-- Monitoramento de integrações corporativas.
-- Apoio à área de TI na identificação de falhas e inconsistências.
-- Integração com APIs REST e dados internos.
-- Aplicação prática em ambiente corporativo.
-
----
-
-### Portal Comex
-
-Portal interno desenvolvido para apoiar processos da área de Comércio Exterior, centralizando informações e otimizando fluxos operacionais.
-
-**Principais pontos:**
-
-- Desenvolvimento de interface web para uso corporativo.
-- Apoio à gestão de informações da área de Comex.
-- Integração com processos internos.
-- Foco em usabilidade e ganho de produtividade.
+- Live integration monitoring with automated anomaly alerts.
+- Reduced mean time to detect and respond to operational failures.
+- Connected to internal systems via REST APIs.
+- Deployed and actively used in a corporate production environment.
 
 ---
 
-### Automações e APIs Internas
+### Trade Portal — Foreign Trade (Comex)
 
-Criação de APIs, automações e formulários corporativos utilizando tecnologias web e integração com sistemas internos.
+Internal web portal built for the Foreign Trade department, centralizing operational data and streamlining daily workflows.
 
-**Principais pontos:**
+**Highlights:**
 
-- Desenvolvimento de APIs com Node.js.
-- Integrações via APIs REST.
-- Automação de processos internos.
-- Redução de custos operacionais.
-
----
-
-## 💼 Experiência Profissional
-
-### Aditex — Auxiliar de TI
-
-**Fev/2025 - Atual**
-
-Atuação na área de TI com desenvolvimento de soluções internas, automações, integrações e suporte a sistemas corporativos.
-
-**Principais realizações:**
-
-- Desenvolvimento de **Portal de Integrações** para monitoramento de integrações do ERP Protheus.
-- Desenvolvimento de **Portal Comex** para área de Comércio Exterior.
-- Criação de APIs e automações utilizando **Node.js**.
-- Desenvolvimento de formulários corporativos.
-- Economia de aproximadamente **R$10.000 por ano** através da substituição de uma plataforma terceirizada.
-- Desenvolvimento de integrações via **APIs REST**.
-- Customizações em **ADVPL**.
-- Criação de dashboards e relatórios utilizando **SQL** e **Power BI**.
+- Vessel arrival tracking and shipment management modules.
+- Interactive dashboards and automated report generation.
+- Integrated with ERP via REST API.
+- Focused on usability and measurable productivity gains.
 
 ---
 
-## 🎓 Formação
+### Internal Automations & APIs — Cost Reduction
 
-### Engenharia de Software
+Custom Node.js APIs and corporate form flows built to replace a paid third-party automation platform.
 
-**Universidade São Judas Tadeu**  
-2025 - Atual
+**Highlights:**
 
-### Análise e Desenvolvimento de Sistemas
-
-**FIAP**  
-2022 - 2024
-
----
-
-## 📚 Cursos
-
-- Full Stack SaaS com Next.js, TypeScript, Stripe e Prisma
-- Vue.js 3
-- JavaScript
-- HTML e CSS
-- Git e GitHub
-- Discover Rocketseat
-- T.I Premium
+- Replaced a third-party SaaS platform with an in-house Node.js solution.
+- **Cut ~$2,000 USD/year (~R$10,000/year) in recurring operational costs.**
+- Includes transactional email APIs and multi-step corporate form flows.
+- Integrated with internal systems and ERP via REST APIs.
 
 ---
 
-## 🌱 Atualmente Estudando
+## 💼 Work Experience
 
-Atualmente estou aprofundando meus conhecimentos em tecnologias modernas de desenvolvimento web e arquitetura de aplicações.
+### Aditex — Full-Stack Developer
 
-- React
-- TypeScript
-- Next.js
-- Arquitetura Front-end
-- APIs REST
-- Desenvolvimento Full Stack
-- Inteligência Artificial aplicada ao desenvolvimento
+**Feb 2025 – Present**
 
----
+Building internal web applications, REST APIs, and ERP integrations used daily across the organization.
 
-## 🎯 Interesses Profissionais
+**Key achievements:**
 
-Tenho interesse em oportunidades como:
-
-- Desenvolvedor Front-end Júnior
-- Desenvolvedor Full-stack Júnior
-
-Busco atuar em projetos que envolvam desenvolvimento de interfaces modernas, integração com APIs, melhoria de processos e construção de soluções web escaláveis.
+- Built the **Integrations Portal** for real-time ERP Protheus integration monitoring.
+- Delivered the **Trade Portal** for the Foreign Trade team with shipment tracking and dashboards.
+- **Replaced a third-party platform with a custom Node.js solution — saving ~$2,000 USD/year.**
+- Developed corporate form systems and transactional email APIs in Node.js.
+- Implemented REST API integrations and ERP customizations in ADVPL.
+- Created SQL queries and Power BI dashboards for business decision support.
 
 ---
 
-## 📫 Contato
+## 🎓 Education
+
+### B.S. in Software Engineering
+**Universidade São Judas Tadeu** — 2025 – Present
+
+### B.S. in Systems Analysis & Development
+**FIAP** — 2022 – 2024
+
+---
+
+## 📚 Courses & Certifications
+
+- Full Stack SaaS with Next.js, TypeScript, Stripe & Prisma — Udemy
+- Vue.js 3 — Alura
+- JavaScript: Deep Dive — Alura
+- HTML & CSS for Web Projects — Alura
+- Git & GitHub: Team Collaboration — Alura
+- Discover (Web Fundamentals) — Rocketseat
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns and architecture
+- TypeScript at scale
+- Next.js App Router & Server Components
+- Full-Stack application design
+- AI-assisted development workflows
+
+---
+
+## 🎯 Open To
+
+Full-Stack or Frontend Engineer roles — remote, international, or hybrid — where I can ship real products, work with strong engineers, and grow fast.
+
+---
+
+## 📫 Contact
 
 <p>
   <a href="mailto:eduardohnsalman@gmail.com">
@@ -212,5 +194,5 @@ Busco atuar em projetos que envolvam desenvolvimento de interfaces modernas, int
 ---
 
 <p align="center">
-  Sempre em evolução, construindo soluções reais e aprendendo novas tecnologias.
+  Building real things. Shipping fast. Always learning.
 </p>
